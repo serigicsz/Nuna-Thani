@@ -10,7 +10,8 @@ Moreno Vergara Johan Raúl u20201c105
 Padilla Sánchez Sergio Jesús u20201c772
 
 ## Descripción de la empresa:
-Nuna Thani es una aplicación, que a través de un Bot inteligente busca mejorar
+Nuna Thani es una aplicación, que a través de un Bot inteligente 
+busca mejorar
 
 el bienestar mental de nuestros usuarios mediante diagnósticos, recomendaciones,
 
