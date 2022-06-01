@@ -28,3 +28,6 @@ Para el raleases, se optó por Semantic Versioning 2.0.0, el cual indica cada un
 - Body: Una descripción más larga, la cual puede incluir contextos sobre cómo se hizo el cambio y los detalles que se considere necesario. 
 
 - Footer: Esta parte indicada a indicar el o los que issues estas cerrando o indicar que este cambio rompe la compatibilidad de software respecto a versiones anteriores.
+
+
+![imagen](/Capitulo%205/images/cincounodos.png)

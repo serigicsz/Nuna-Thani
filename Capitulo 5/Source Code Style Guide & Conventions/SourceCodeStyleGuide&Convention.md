@@ -2,7 +2,7 @@
 
 # 1. Style Guidelines
 
-####1.1 General Style Guidelines
+#### 1.1 General Style Guidelines
 - **Branding**
  **Construcción del logo:** El logo está inspirado en búsqueda de la recuperación emocional y protección de nuestros usuarios con la ayuda de profesionales y especialistas en el tema.
  
@@ -62,13 +62,13 @@
  **Levels:**
 		Levels between 8 px and 72 px
 
-####1.1.1. Web Style Guidelines
+#### 1.1.1. Web Style Guidelines
  - En esta sección se explica e ilustra las decisiones sobre los estándares visuales y de interacción para responsive web interfaces
  
  `<link>` : <https://www.figma.com/file/OKtp8tW3aWnLhXSnurkiLF/Web-Style-Guidelines?node-id=0%3A1>
 
 
-####1.1.2. Mobile Style Guidelines
+#### 1.1.2. Mobile Style Guidelines
 - A continuación, se presenta e ilustra los estándares visuales y de interacción para las interfaces de aplicaciones móviles.
  + 1.3. Android Mobile Style Guidelines
 
@@ -78,15 +78,15 @@
 
  `<link>` : <https://www.figma.com/file/IgohOZBcTqyAXVOFtDUjZh/iOS-Mobile-Style-Guidelines?node-id=0%3A1>
 
-####1.2 Information Architecture
+#### 1.2 Information Architecture
 - Esta sección está orientada a que los visitantes y usuarios se adapten con facilidad a la funcionalidad de cada producto y puedan encontrar todo aquello que necesiten sin esfuerzo.
 
-####1.2.1 Organization Systems
+#### 1.2.1 Organization Systems
 - Con respecto al inicio de sesión esta será secuencial y para la página principal será de forma selectiva y para la opción de interacción o actividades será iguales o similares.
 
  ` <link>` : <https://miro.com/app/board/uXjVO47-WkI=/?share_link_id=413038563633>
 
-####1.2.2 Labeling Systems 
+#### 1.2.2 Labeling Systems 
 
 **Todos los datos se van a presentar de esa manera:**
 
@@ -97,7 +97,7 @@
 
 `<link>` : <https://www.figma.com/file/K5gZbs561MCYgXggutkOu5/Untitled?node-id=0%3A1>
 
-####1.2.3 Searching Systems 
+#### 1.2.3 Searching Systems 
 - Dentro de UI, nuestro sistema de búsqueda incluirá un diseño y una optimización adecuada, para que el usuario cuente con una mejor experiencia. Para esto se contará con una barra de búsqueda donde se incluya variedad de funcionalidades y resultados en función a los filtros que el usuario desee aplicar. En caso de utilizar algún filtro de búsqueda, el ícono se volverá oscuro con un punto rojo en el lado superior derecho indicando que se hizo uso de este.
 - Dentro de los filtros contaremos con: Psicólogos, Centros Psicológicos, Charlas, Centros de pago etc.
 - Los resultados se mostrarán en forma de tarjeta siendo el resultado principal el que más destaque en la pantalla, también se mostrará resultados relacionados a la búsqueda.
@@ -108,7 +108,7 @@
  + IOS
 `<link>` : <https://www.figma.com/file/BgqA5U45ODvmKZL0YH1FfD/Searching-IOS?node-id=0%3A1>
 
-####1.2.4 Navigation Systems
+#### 1.2.4 Navigation Systems
 
 - Si el usuario inicia sesión con su cuenta llegara a la página principal, donde estarán mensajes motivadores para el usuario y al lado izquierdo habrá un panel de navegación con las opciones principales como “Inicio”, “Psicólogos”, “Calendario”,” ChatBot”,” Recomendaciones”, “Rutinas Recreativas”, “Centro Psicológicos”, “Reservar Cita”, “Reportes”, “Anuncios”, “Configuración”.
 - Cuando el usuario decida ir a cualquiera de las opciones principales le aparecerá una nueva ventana con otras posibilidades. Por ejemplo:
@@ -117,10 +117,10 @@
 
 `<link>` : <https://www.figma.com/file/K5gZbs561MCYgXggutkOu5/Untitled?node-id=0%3A1>
 
-####1.3 Landing Page UI Design
+#### 1.3 Landing Page UI Design
 - En esta sección se elabora la propuesta de UI para el Landing Page. 
 
-####1.3.1  Landing Page Wireframe
+#### 1.3.1  Landing Page Wireframe
 
 `<link>` : <https://www.figma.com/file/gqDVoFbckt0kLDYIDkXfko/Wireframe?node-id=0%3A1>
 
@@ -152,7 +152,7 @@
  	- Accessible: debido a que está en un buscador se adecua a todos los dispositivos en los que ingrese el usuario.
 	 - Usable: porque tiene varias botones de acción en sus secciones. 
 
-####1.3.1  Landing Page Mock-up
+#### 1.3.1  Landing Page Mock-up
 
 `<link>` : <https://www.figma.com/file/r5u0VD7RUw52833FVG9xSl/TP---IHC?node-id=0%3A1>
 
